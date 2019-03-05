@@ -1,13 +1,7 @@
-# [Featurester](https://178.62.82.229)
-
-A feature request manager
-
-- Deployed [Here](https://178.62.82.229)
-- GitHub Repository [Here](https://github.com/Miravicson/Featurester)
+# A Starter Pack for those who value productivity
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -251,9 +245,6 @@ Install the other dependencies by running the following command
 
 clone the code from the Github repository and navigate to the directory
 
-```
-    $ git clone https://github.com/Miravicson/Featurester.git
-    $ cd Featurester
 ```
 
 create a virtual environment and populate it with all the package dependencies,
